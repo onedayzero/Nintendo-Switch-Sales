@@ -1,6 +1,6 @@
 # Nintendo-Switch-Sales
 
-| Syntax | Description |
+| Column Name | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
